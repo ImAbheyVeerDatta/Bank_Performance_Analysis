@@ -1,0 +1,301 @@
+customer_id,marital_status,education,occupation,annual_income_inr
+1,Divorced,Diploma,Business,3500000
+2,Widowed,Graduate,Salaried,2000000
+3,Married,Professional,Self-Employed,250000
+4,Married,Diploma,Student,3500000
+5,Divorced,Diploma,Retired,2000000
+6,Single,Graduate,Student,2000000
+7,Single,High School,Self-Employed,800000
+8,Widowed,High School,Salaried,600000
+9,Married,Postgraduate,Salaried,1200000
+10,Single,Professional,Student,1200000
+11,Divorced,Diploma,Salaried,3500000
+12,Married,Professional,Student,250000
+13,Married,Diploma,Business,400000
+14,Single,Diploma,Retired,1200000
+15,Married,Diploma,Self-Employed,2000000
+16,Single,Postgraduate,Self-Employed,2000000
+17,Single,Graduate,Salaried,600000
+18,Widowed,Postgraduate,Student,800000
+19,Married,Diploma,Salaried,2000000
+20,Single,High School,Retired,600000
+21,Divorced,Postgraduate,Business,400000
+22,Married,Professional,Student,1200000
+23,Single,Postgraduate,Self-Employed,800000
+24,Single,Diploma,Salaried,1200000
+25,Divorced,Postgraduate,Salaried,3500000
+26,Divorced,Diploma,Retired,600000
+27,Widowed,Professional,Retired,800000
+28,Married,Postgraduate,Student,2000000
+29,Widowed,Diploma,Salaried,800000
+30,Single,Postgraduate,Salaried,800000
+31,Married,Graduate,Business,800000
+32,Divorced,Diploma,Retired,250000
+33,Divorced,Graduate,Business,250000
+34,Widowed,Postgraduate,Salaried,1200000
+35,Married,Professional,Business,600000
+36,Married,Diploma,Business,400000
+37,Married,Professional,Self-Employed,400000
+38,Married,Postgraduate,Self-Employed,400000
+39,Married,Graduate,Retired,600000
+40,Married,High School,Salaried,250000
+41,Widowed,Diploma,Salaried,3500000
+42,Single,Professional,Business,1200000
+43,Divorced,Professional,Retired,3500000
+44,Divorced,Professional,Self-Employed,3500000
+45,Divorced,Professional,Self-Employed,3500000
+46,Married,High School,Retired,3500000
+47,Widowed,Professional,Retired,250000
+48,Divorced,Professional,Self-Employed,800000
+49,Single,Diploma,Student,600000
+50,Single,High School,Self-Employed,800000
+51,Single,Postgraduate,Business,1200000
+52,Divorced,Graduate,Retired,600000
+53,Married,Postgraduate,Student,1200000
+54,Divorced,Postgraduate,Self-Employed,800000
+55,Widowed,Graduate,Student,2000000
+56,Divorced,Postgraduate,Student,600000
+57,Widowed,Graduate,Retired,400000
+58,Married,High School,Business,3500000
+59,Married,Diploma,Student,3500000
+60,Widowed,Graduate,Self-Employed,3500000
+61,Married,Professional,Salaried,400000
+62,Widowed,Professional,Self-Employed,3500000
+63,Divorced,Professional,Business,600000
+64,Single,Professional,Salaried,2000000
+65,Married,High School,Self-Employed,3500000
+66,Divorced,Professional,Salaried,800000
+67,Divorced,Postgraduate,Business,600000
+68,Divorced,Postgraduate,Salaried,800000
+69,Single,Postgraduate,Retired,400000
+70,Married,Postgraduate,Business,600000
+71,Widowed,Professional,Salaried,800000
+72,Divorced,Professional,Self-Employed,3500000
+73,Married,Postgraduate,Student,2000000
+74,Widowed,High School,Salaried,400000
+75,Divorced,Graduate,Business,600000
+76,Divorced,Postgraduate,Retired,2000000
+77,Widowed,Postgraduate,Student,3500000
+78,Divorced,Diploma,Retired,800000
+79,Widowed,Graduate,Self-Employed,3500000
+80,Single,Graduate,Self-Employed,2000000
+81,Divorced,High School,Self-Employed,400000
+82,Widowed,High School,Salaried,250000
+83,Widowed,Diploma,Salaried,250000
+84,Widowed,Diploma,Salaried,250000
+85,Divorced,Diploma,Self-Employed,250000
+86,Widowed,Postgraduate,Self-Employed,400000
+87,Divorced,Professional,Self-Employed,400000
+88,Married,High School,Salaried,2000000
+89,Divorced,Postgraduate,Student,800000
+90,Divorced,Diploma,Student,400000
+91,Married,Diploma,Retired,800000
+92,Widowed,Diploma,Retired,600000
+93,Divorced,Professional,Retired,400000
+94,Single,Professional,Business,600000
+95,Widowed,Postgraduate,Self-Employed,600000
+96,Single,High School,Retired,3500000
+97,Married,Postgraduate,Business,800000
+98,Single,Professional,Student,600000
+99,Single,Professional,Business,1200000
+100,Married,High School,Retired,600000
+101,Married,Professional,Retired,800000
+102,Widowed,Graduate,Self-Employed,2000000
+103,Widowed,Professional,Self-Employed,600000
+104,Single,Professional,Self-Employed,1200000
+105,Divorced,Postgraduate,Retired,3500000
+106,Divorced,Professional,Self-Employed,3500000
+107,Single,Graduate,Self-Employed,600000
+108,Single,Professional,Retired,800000
+109,Divorced,Diploma,Student,400000
+110,Divorced,High School,Self-Employed,250000
+111,Single,Graduate,Salaried,600000
+112,Divorced,Graduate,Student,2000000
+113,Single,Graduate,Salaried,400000
+114,Single,Professional,Self-Employed,600000
+115,Widowed,Postgraduate,Student,600000
+116,Widowed,High School,Business,250000
+117,Married,High School,Business,3500000
+118,Widowed,High School,Retired,800000
+119,Married,Graduate,Business,3500000
+120,Widowed,High School,Salaried,3500000
+121,Married,Professional,Student,400000
+122,Single,Graduate,Student,2000000
+123,Single,Diploma,Self-Employed,800000
+124,Widowed,Postgraduate,Business,400000
+125,Single,Diploma,Retired,250000
+126,Divorced,Professional,Business,400000
+127,Divorced,High School,Self-Employed,250000
+128,Married,Professional,Business,250000
+129,Married,Postgraduate,Retired,250000
+130,Widowed,Graduate,Salaried,250000
+131,Widowed,Diploma,Self-Employed,600000
+132,Single,Graduate,Self-Employed,800000
+133,Single,Diploma,Business,3500000
+134,Single,High School,Business,2000000
+135,Married,Diploma,Salaried,400000
+136,Widowed,Graduate,Business,1200000
+137,Divorced,Professional,Self-Employed,250000
+138,Widowed,Postgraduate,Self-Employed,600000
+139,Single,Professional,Student,1200000
+140,Divorced,Diploma,Student,400000
+141,Married,Diploma,Business,600000
+142,Widowed,Postgraduate,Retired,3500000
+143,Married,High School,Retired,400000
+144,Widowed,Postgraduate,Business,1200000
+145,Divorced,Professional,Salaried,3500000
+146,Widowed,Graduate,Salaried,1200000
+147,Divorced,Diploma,Self-Employed,600000
+148,Single,Diploma,Student,400000
+149,Widowed,Diploma,Self-Employed,1200000
+150,Divorced,Postgraduate,Student,2000000
+151,Divorced,High School,Salaried,1200000
+152,Single,High School,Self-Employed,400000
+153,Single,Graduate,Salaried,800000
+154,Married,High School,Salaried,1200000
+155,Widowed,Professional,Retired,1200000
+156,Divorced,High School,Business,400000
+157,Single,High School,Self-Employed,2000000
+158,Widowed,High School,Student,3500000
+159,Single,Postgraduate,Retired,2000000
+160,Widowed,Postgraduate,Salaried,3500000
+161,Divorced,Diploma,Salaried,2000000
+162,Single,Postgraduate,Salaried,400000
+163,Single,High School,Self-Employed,1200000
+164,Widowed,Graduate,Self-Employed,1200000
+165,Married,Diploma,Self-Employed,1200000
+166,Widowed,High School,Retired,600000
+167,Widowed,Professional,Salaried,400000
+168,Married,Diploma,Student,1200000
+169,Divorced,Graduate,Retired,1200000
+170,Widowed,Postgraduate,Business,1200000
+171,Divorced,Postgraduate,Student,3500000
+172,Widowed,Postgraduate,Retired,400000
+173,Married,Professional,Retired,2000000
+174,Divorced,Postgraduate,Student,800000
+175,Widowed,High School,Salaried,600000
+176,Single,Diploma,Self-Employed,600000
+177,Single,Postgraduate,Self-Employed,400000
+178,Divorced,High School,Business,1200000
+179,Married,High School,Salaried,800000
+180,Divorced,Graduate,Self-Employed,600000
+181,Divorced,Diploma,Self-Employed,400000
+182,Divorced,Postgraduate,Salaried,1200000
+183,Widowed,Diploma,Self-Employed,2000000
+184,Single,Postgraduate,Student,400000
+185,Widowed,Diploma,Salaried,1200000
+186,Divorced,High School,Retired,800000
+187,Single,High School,Business,600000
+188,Widowed,Professional,Salaried,3500000
+189,Married,Diploma,Salaried,2000000
+190,Widowed,High School,Business,1200000
+191,Single,Postgraduate,Retired,1200000
+192,Married,Postgraduate,Retired,2000000
+193,Married,Graduate,Salaried,2000000
+194,Widowed,Professional,Retired,1200000
+195,Single,Graduate,Student,600000
+196,Widowed,Graduate,Self-Employed,600000
+197,Single,Professional,Retired,2000000
+198,Single,Diploma,Student,600000
+199,Single,Professional,Retired,800000
+200,Married,Graduate,Student,1200000
+201,Married,Professional,Student,2000000
+202,Married,Diploma,Retired,2000000
+203,Married,Graduate,Salaried,600000
+204,Widowed,Postgraduate,Retired,250000
+205,Single,Professional,Student,600000
+206,Divorced,Graduate,Business,600000
+207,Single,Postgraduate,Self-Employed,600000
+208,Widowed,Diploma,Self-Employed,800000
+209,Single,Graduate,Self-Employed,2000000
+210,Divorced,Graduate,Salaried,250000
+211,Single,Graduate,Retired,400000
+212,Divorced,High School,Business,2000000
+213,Single,Postgraduate,Student,800000
+214,Single,Postgraduate,Self-Employed,2000000
+215,Married,Graduate,Retired,1200000
+216,Divorced,Diploma,Student,1200000
+217,Married,High School,Student,1200000
+218,Single,Postgraduate,Self-Employed,250000
+219,Divorced,Graduate,Retired,600000
+220,Single,Professional,Salaried,250000
+221,Widowed,Postgraduate,Business,3500000
+222,Single,High School,Business,3500000
+223,Widowed,Graduate,Student,1200000
+224,Single,Postgraduate,Student,3500000
+225,Single,Graduate,Self-Employed,1200000
+226,Widowed,Diploma,Salaried,250000
+227,Married,Diploma,Business,600000
+228,Widowed,Professional,Self-Employed,250000
+229,Divorced,Postgraduate,Business,2000000
+230,Divorced,Graduate,Retired,600000
+231,Single,Postgraduate,Student,3500000
+232,Single,Diploma,Business,400000
+233,Married,Postgraduate,Student,2000000
+234,Married,High School,Student,1200000
+235,Married,Professional,Self-Employed,1200000
+236,Married,Professional,Business,1200000
+237,Divorced,Professional,Retired,400000
+238,Married,Graduate,Retired,1200000
+239,Married,Graduate,Business,2000000
+240,Married,Professional,Self-Employed,2000000
+241,Married,Postgraduate,Salaried,1200000
+242,Single,Graduate,Business,3500000
+243,Married,High School,Business,800000
+244,Widowed,Postgraduate,Student,2000000
+245,Divorced,Graduate,Self-Employed,250000
+246,Married,Graduate,Salaried,3500000
+247,Divorced,Diploma,Retired,1200000
+248,Married,Diploma,Self-Employed,400000
+249,Single,Postgraduate,Salaried,2000000
+250,Widowed,Graduate,Retired,3500000
+251,Widowed,Postgraduate,Self-Employed,3500000
+252,Widowed,Professional,Student,400000
+253,Married,Graduate,Self-Employed,250000
+254,Widowed,High School,Business,800000
+255,Married,Graduate,Self-Employed,250000
+256,Married,Professional,Retired,800000
+257,Divorced,Professional,Self-Employed,800000
+258,Widowed,High School,Retired,2000000
+259,Widowed,Postgraduate,Student,1200000
+260,Single,Diploma,Salaried,800000
+261,Widowed,High School,Self-Employed,1200000
+262,Widowed,High School,Retired,800000
+263,Single,Graduate,Business,800000
+264,Widowed,Postgraduate,Business,800000
+265,Married,Professional,Business,1200000
+266,Single,Diploma,Self-Employed,800000
+267,Widowed,High School,Retired,250000
+268,Married,Diploma,Retired,400000
+269,Widowed,Professional,Business,800000
+270,Single,Graduate,Student,1200000
+271,Married,Professional,Salaried,600000
+272,Divorced,Graduate,Salaried,250000
+273,Single,Professional,Business,250000
+274,Widowed,Diploma,Retired,400000
+275,Widowed,Diploma,Student,250000
+276,Married,Postgraduate,Retired,3500000
+277,Married,Graduate,Self-Employed,400000
+278,Single,Professional,Business,600000
+279,Widowed,Postgraduate,Self-Employed,250000
+280,Married,Graduate,Salaried,1200000
+281,Divorced,High School,Student,800000
+282,Widowed,Diploma,Salaried,1200000
+283,Widowed,Graduate,Self-Employed,1200000
+284,Widowed,Professional,Student,800000
+285,Single,Diploma,Retired,250000
+286,Married,Diploma,Business,1200000
+287,Married,High School,Self-Employed,400000
+288,Single,Postgraduate,Salaried,400000
+289,Single,Diploma,Retired,600000
+290,Divorced,High School,Salaried,250000
+291,Widowed,Graduate,Self-Employed,2000000
+292,Divorced,Diploma,Retired,1200000
+293,Married,Professional,Retired,600000
+294,Single,High School,Business,600000
+295,Divorced,Professional,Salaried,3500000
+296,Widowed,Diploma,Salaried,600000
+297,Widowed,Graduate,Salaried,2000000
+298,Divorced,Postgraduate,Retired,800000
+299,Married,Graduate,Retired,250000
+300,Single,Diploma,Retired,250000
